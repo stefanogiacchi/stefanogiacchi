@@ -45,3 +45,19 @@ to bring clarity and accelerate enterprise delivery.
 
 ## ⚡ Fun fact  
 I love building **solutions that survive reality**, not just architecture diagrams.  
+
+---
+## Certifications
+
+[![Azure Architect Expert](https://img.shields.io/badge/Azure_Architect_Expert-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)](#)
+[![DevOps Engineer Expert](https://img.shields.io/badge/DevOps_Engineer_Expert-0078D4?style=flat-square\&logo=azurepipelines\&logoColor=white)](#)
+[![ITIL 4](https://img.shields.io/badge/ITIL_4_Foundation-5C2D91?style=flat-square)](#)
+[![PSM I](https://img.shields.io/badge/PSM_I-009FDA?style=flat-square)](#)
+[![Neo4j Professional](https://img.shields.io/badge/Neo4j_Professional-008CC1?style=flat-square\&logo=neo4j\&logoColor=white)](#)
+![C|FA](https://img.shields.io/badge/Cyber_Forensics_Associate-C%7CFA-critical?style=flat-square)
+---
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefano_Giacchi-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/stefanogiacchi/)
+[![GitHub](https://img.shields.io/badge/GitHub-stefanogiacchi-181717?style=flat-square\&logo=github)](https://github.com/stefanogiacchi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Stefano_Giacchi-2EC866?style=flat-square\&logo=hackerrank)](https://www.hackerrank.com/profile/stefanogiacchi)
